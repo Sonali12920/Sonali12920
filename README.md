@@ -1,6 +1,6 @@
 ### Hola!! 👋
 
-- 🔭 I’m currently working on ZeroToHero
+- 🔭 I’m currently working on ZeroToHero and OneStop Help
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate in DSC IGDTUW
 - 💬 Ask me about VueJs 
