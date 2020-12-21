@@ -1,11 +1,11 @@
 ### Hola!! 👋
 
-- 🔭 I’m currently working on ZeroToHero and OneStop Help
+- 🔭 I’m currently working on AllNotes and OneStop Help
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate in DSC IGDTUW
 - 💬 Ask me about VueJs 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I can listen songs straight up to 5 hours because music can heal the wounds which medicine cannot touch.
+- ⚡ Fun fact: I can listen songs straight up to 5 hours because music can heal the wounds which medicine can't touch.
 
 - 📫You can find me at:<pre>  [![LinkedIn][2.2]][2]  or  [![Twitter][1.2]][1] </pre>
 
