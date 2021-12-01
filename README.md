@@ -1,8 +1,7 @@
 ### Hola!! 👋
 
-- 🔭 I’m currently working on AllNotes and OneStop Help
+- 🔭 I’m currently working on WomenSchemes Project
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate in DSC IGDTUW
 - 💬 Ask me about VueJs 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can listen songs straight up to 5 hours because music can heal the wounds which medicine can't touch.
