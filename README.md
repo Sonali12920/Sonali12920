@@ -1,8 +1,8 @@
 ### Hola!! 👋
 
-- 🔭 I’m currently working on WomenSchemes Project
+- 🔭 I’m currently working as SDE in OYO Rooms
 - 🌱 I’m currently learning React
-- 💬 Ask me about VueJs 
+- 💬 Ask me about Swift
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can listen songs straight up to 5 hours because music can heal the wounds which medicine can't touch.
 
