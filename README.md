@@ -8,5 +8,4 @@
 - 🚀 Passionate about optimizing performance and enhancing user experience in both web and mobile through innovative design patterns
 - 🔍 Adept at event tracking and analytics integration using Firebase and custom solutions for both platforms
 - 💬 Ask me about Swift, SwiftUI, React, Firebase, and mobile/web architecture
-- ⚡ Fun fact: I can listen to songs for up to 5 hours because music can heal wounds that medicine can't touch.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sonali-a989a8192) to explore collaboration opportunities or discuss iOS and web development!
